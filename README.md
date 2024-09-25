@@ -2,7 +2,7 @@
 <p align="justify">
   I'm a dedicated full-stack web developer with a passion for robotics and IoT, always looking for opportunities to push the boundaries of innovation. Whether it's crafting dynamic and user-friendly web applications or programming smart devices to enhance everyday life, I'm driven by curiosity and a desire to build impactful solutions. With experience in a wide range of technologies, I enjoy merging software development with hardware to create seamless, efficient, and practical systems. Learning new skills and keeping up with cutting-edge tech trends keeps me inspired as I explore creative solutions to real-world problems.
 
-  <img align="right" alt="Coding" width="400" src="https://alcorfund.com/wp-content/uploads/2020/09/Technical-Innovation.png">
+  <img align="top-right" alt="Coding" width="400" src="https://alcorfund.com/wp-content/uploads/2020/09/Technical-Innovation.png">
 </p>
 
 # 🌐 Connect with Me:
